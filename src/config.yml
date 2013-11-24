@@ -1,0 +1,8 @@
+# GolemGuard configuration
+#
+# -------------------------------------------------------- #
+#                     Economy Stuff
+eco:
+    use: true
+    buy-price: 100.00
+

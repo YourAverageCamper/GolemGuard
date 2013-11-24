@@ -1,0 +1,8 @@
+name: GolemGuard
+description: Offers iron golem body guards to protect players
+main: com.zeusallmighty11.GolemGuard.GolemGuard
+author: ZeusAllMighty11
+version: 0.0.1
+commands:
+    guard:
+        description: Handles all guard commands
